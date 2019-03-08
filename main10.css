@@ -1,0 +1,45 @@
+*{
+	margin:0px;
+	padding:0px;
+	list-style-type:none;
+}
+header,nav,article,section,aside,footer{
+	display:block;
+}
+.container:{
+	width:1000px;
+	margin:0px auto;
+}
+.clear{
+	clear:both;
+}
+.memory{
+	float:left;
+	height=200px;
+	width=500px;	
+}
+.logo{
+	float:left;
+}
+.top_nav{
+	float:left;
+	width:100px;
+}
+.top_nav ulli{
+	float:left;
+	padding:25px 20px;
+}
+
+.left-side{
+	float:left;
+	width:400px;
+	
+}
+.right-side:{
+	float:left;
+	width:200px;
+}
+.page-footer{
+	clear:both;
+	text-align:center;
+}
